@@ -1,0 +1,59 @@
+body{
+    background-image: url('https://previews.123rf.com/images/flyalone/flyalone1708/flyalone170800009/84188206-abstract-futuristic-digital-technology-background-telecom-communication-concept-vector-illustration.jpg');
+}
+
+/*https://static.vecteezy.com/ti/vecteur-libre/p1/273835-white-background-gratuit-vectoriel.jpg*/
+input , select {
+    width: 300px;
+    height: 45px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid transparent;
+    background-color: rgb(218, 216, 216);
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 0;
+    line-height: 2.5;
+    font-size: 1rem; 
+    text-align: center;
+    border-radius: 25px;
+}
+ button {
+    border: 0;
+     line-height: 2.5;
+     padding: 0 20px;
+     font-size: 1rem; 
+     text-align: center;
+     color: #fff;
+     text-shadow: 1px 1px 1px #000;
+     border-radius: 20px;
+     background-color: rgb(85, 84, 84);
+     background-image: linear-gradient(to top left,
+                                       rgba(0, 0, 0, .2),
+                                       rgba(0, 0, 0, .2) 30%,
+                                       rgba(0, 0, 0, 0));
+     box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                 inset -2px -2px 3px rgba(0, 0, 0, .6);
+    margin-left: 100px;
+ }
+ 
+ button:hover {
+     background-color: rgb(16, 107, 31);
+ }
+ 
+ button:active {
+     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                 inset 2px 2px 3px rgba(0, 0, 0, .6);
+ }
+ label , h4{
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: medium;
+     font-weight: 100;
+     margin-left: 20px;
+ }
+ h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    font-weight: 200;
+}
